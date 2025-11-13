@@ -1,0 +1,8 @@
+Nome: eliezer
+Idade: 19
+Cidade: SJC
+
+Hobbies:
+- Carros
+- Jogos
+
